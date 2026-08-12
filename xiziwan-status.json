@@ -1,11 +1,11 @@
 {
   "location": "西子灣",
-  "lastFetchedAt": "2026-08-13T02:14:34.693828+08:00",
+  "lastFetchedAt": "2026-08-13T04:23:32.724304+08:00",
   "tide": {
-    "height": 28,
-    "level": "退潮",
+    "height": 46,
+    "level": "漲潮",
     "tideRange": "大",
-    "observedAt": "2026-08-13T01:00:00+08:00",
+    "observedAt": "2026-08-13T03:00:00+08:00",
     "source": "C4P01 / F-A0021-001"
   },
   "wave": {
@@ -22,8 +22,8 @@
     "source": "COMC08"
   },
   "seaTemperature": {
-    "value": 32.1,
-    "observedAt": "2026-08-13T01:00:00+08:00",
+    "value": 31.9,
+    "observedAt": "2026-08-13T03:00:00+08:00",
     "source": "C4P01"
   },
   "sun": {
@@ -33,7 +33,7 @@
   "alertLevel": "red",
   "isOpenNow": false,
   "openness": "beforeOpen",
-  "minutesUntilSunset": 977,
+  "minutesUntilSunset": 848,
   "inTideAlternationWindow": false,
   "dataWarnings": []
 }
