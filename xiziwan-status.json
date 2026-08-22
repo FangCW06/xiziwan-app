@@ -1,6 +1,6 @@
 {
   "location": "西子灣",
-  "lastFetchedAt": "2026-08-23T04:36:01.214976+08:00",
+  "lastFetchedAt": "2026-08-23T04:56:42.642282+08:00",
   "tide": {
     "height": 96,
     "level": "漲潮",
@@ -33,7 +33,7 @@
   "alertLevel": "red",
   "isOpenNow": false,
   "openness": "beforeOpen",
-  "minutesUntilSunset": 828,
+  "minutesUntilSunset": 807,
   "inTideAlternationWindow": true,
   "dataWarnings": []
 }
